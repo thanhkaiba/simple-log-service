@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 60
+    },
+    "auditLog": "user-log\\.f26f2226af269308b7032771b93d219e112f25c4-audit.json",
+    "files": [
+        {
+            "date": 1642241001881,
+            "name": "user-log\\piratera-15-01-2022.log",
+            "hash": "66dfcdd9b036f26099178fbc7a434c3f"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "log_servicce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kaiba",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "winston": "^3.4.0",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}
